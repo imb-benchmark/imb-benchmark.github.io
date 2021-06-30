@@ -1,8 +1,8 @@
-Link to [Leaderboard](imb-benchmark.github.io/Leaderboard.html)
+Link to [Leaderboard](https://imb-benchmark.github.io//Leaderboard.html)
 
-Link to [Description](imb-benchmark.github.io/Description.html)
+Link to [Description](https://imb-benchmark.github.io//Description.html)
 
-Link to [Dataset](imb-benchmark.github.io/Dataset.html)
+Link to [Dataset](https://imb-benchmark.github.io//Dataset.html)
 
 ## Welcome to GitHub Pages
 
