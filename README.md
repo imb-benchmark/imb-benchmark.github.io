@@ -4,6 +4,10 @@ Link to [Description](https://imb-benchmark.github.io//Description.html)
 
 Link to [Dataset](https://imb-benchmark.github.io//Dataset.html)
 
+Link to [Legal](https://imb-benchmark.github.io/Legal.html)
+
+Link to [Impressum](https://imb-benchmark.github.io/Impressum.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/imb-benchmark/imb-benchmark.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
