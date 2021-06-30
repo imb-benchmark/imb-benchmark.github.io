@@ -1,4 +1,4 @@
-Link to [Leaderboard](imb-benchmark.github.io/leaderboard.html)
+Link to [Leaderboard](imb-benchmark.github.io/Leaderboard.html)
 
 ## Welcome to GitHub Pages
 
