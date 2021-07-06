@@ -18,7 +18,7 @@
         {% if site.logo %}
         <center>
           <a href="{{ "/" | absolute_url }}">
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 60%; high=auto;"/>
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 75%; high=auto;"/>
           </a>
         </center>
         {% endif %}
@@ -27,9 +27,9 @@
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <p><medium><a href="https://imb-benchmark.github.io//Leaderboard.html">Leaderboard</a><br>
+        <p><large><a href="https://imb-benchmark.github.io//Leaderboard.html">Leaderboard</a><br>
           <a href="https://imb-benchmark.github.io//Description.html">Description</a><br>
-          <a href="https://imb-benchmark.github.io//Dataset.html">Dataset</a></medium></p>
+          <a href="https://imb-benchmark.github.io//Dataset.html">Dataset</a></large></p>
         
 
         {% if site.show_downloads %}
