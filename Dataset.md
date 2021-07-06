@@ -1,12 +1,7 @@
 # Dataset
 
 ## Download
-<button name="button" href="https://github.com/imb-benchmark/imb-benchmark/raw/main/Test_data.zip">Download the Dataset</button>
 
-<form action="https://google.com">
-    <input type="submit" value="Go to Google" />
-</form>
-
-<form action="https://de.w3docs.com/">
-  <button type="submit">Klicken</button>
+<form action="https://github.com/imb-benchmark/imb-benchmark/raw/main/Test_data.zip">
+    <button type="submit" value="Download the Dataset"/button>
 </form>
