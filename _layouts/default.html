@@ -14,15 +14,18 @@
   <body>
     <div class="wrapper">
       <header>
+        
+        {% if site.logo %}
+        <center>
+          <a href="{{ "/" | absolute_url }}">
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 50%; high=auto;"/>
+          </a>
+        </center>
+        {% endif %}
+        
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.logo %}
-        <center>
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 50%; high=auto;"/>
-        </center>
-        {% endif %}
         
         <p><a href="https://imb-benchmark.github.io//Leaderboard.html">Leaderboard</a><br>
           <a href="https://imb-benchmark.github.io//Description.html">Description</a><br>
