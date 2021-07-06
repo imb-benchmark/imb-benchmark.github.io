@@ -4,5 +4,6 @@ description: Compare your results on a standardized dataset with other methods.
 author: Professur für Informatik im Maschinenbau @ Helmut-Schmidt-Universität in Hamburg
 logo: Logo_HSU.jpg
 google_analytics: G-GKRK125K1M
+locale: de_DE
 plugins:
   - jekyll-seo-tag
