@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: IMBenchMark for SensorData (IMBMSD)
 description: Compare your results on a standardized dataset with other methods. 
+author: Professur für Informatik im Maschinenbau @ Helmut-Schmidt-Universität in Hamburg
 logo: Logo_HSU.jpg
 google_analytics: G-GKRK125K1M
 plugins:
