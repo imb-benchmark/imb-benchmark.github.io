@@ -6,3 +6,7 @@
 <form action="https://google.com">
     <input type="submit" value="Go to Google" />
 </form>
+
+<form action="https://de.w3docs.com/">
+  <button type="submit">Klicken</button>
+</form>
