@@ -1,7 +1,7 @@
 # Contact
 
 <div class="container">
-  <form action="mailto:imb-benchmark@hsu-hh.de">
+  <form action="mailto:imb-benchmark@hsu-hh.de" method="post" enctype="text/plain">>
 
     <label for="fname">Name</label><br>
     <input type="text" id="fname" name="Name" placeholder="Your name...">
@@ -20,6 +20,7 @@
     <br>
 
     <input type="submit" value="Send">
+    <input type="reset" value="Reset">
 
   </form>
 </div>
