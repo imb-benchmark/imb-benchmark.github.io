@@ -34,7 +34,7 @@ function drawChart() {
   var options = {'title':'My Average Day', 'width':550, 'height':400};
 
   // Display the chart inside the <div> element with id="piechart"
-  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  var chart = new google.visualization.PieChart(document.getElementById('linechart'));
   chart.draw(data, options);
 }
 </script>
