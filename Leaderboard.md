@@ -18,11 +18,11 @@ Place | Name | Date | Score
 
     function drawChart() {
       var data = google.visualization.arrayToDataTable([
-        ['Year', 'Sales', 'Expenses'],
-        ['2004',  1000,      400],
-        ['2005',  1170,      460],
-        ['2006',  660,       1120],
-        ['2007',  1030,      540]
+        ['Year', 'ACC'],
+        ['2004',  0.55],
+        ['2005',  0.65],
+        ['2006',  0.77],
+        ['2007',  0.95]
       ]);
 
       var options = {
