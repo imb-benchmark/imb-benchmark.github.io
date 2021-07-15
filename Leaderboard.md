@@ -8,8 +8,8 @@ Place | Name | Date | Score
 3 | Peter Pan | 01.01.2021 | 0,21
 4 | Olie S. aus W. | 01.01.2021 | 0,01
 
-<!DOCTYPE html>
-<html lang="en-US">
+
+<html lang="de-DE">
 <body>
 
 <h1>My Web Page</h1>
