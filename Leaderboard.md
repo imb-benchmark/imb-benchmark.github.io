@@ -9,10 +9,6 @@ Place | Name | Date | Score
 4 | Olie S. aus W. | 01.01.2021 | 0,01
 
 
-<html lang="de-DE">
-<body>
-
-<h1>My Web Page</h1>
 
 <div id="piechart"></div>
 
@@ -42,6 +38,3 @@ function drawChart() {
   chart.draw(data, options);
 }
 </script>
-
-</body>
-</html>
