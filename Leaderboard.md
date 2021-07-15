@@ -26,7 +26,7 @@ Place | Name | Date | Score
       ]);
 
       var options = {
-        title: 'Company Performance',
+        title: 'Benchmark',
         curveType: 'function',
         legend: { position: 'bottom' }
       };
@@ -36,5 +36,5 @@ Place | Name | Date | Score
       chart.draw(data, options);
     }
   </script>
-  <div id="curve_chart" style="width: 900px; height: 500px"></div>
+  <div id="curve_chart" style="width: auto; height: auto"></div>
 
