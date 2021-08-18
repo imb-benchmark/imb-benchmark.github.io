@@ -1,6 +1,6 @@
 # Dataset
 
-# Dataset `bernd-1` ([Leaderboard](link/to/leaderboard)):
+# Dataset `bernd-1` ([Leaderboard](https://imb-benchmark.github.io//Leaderboard.html)):
 
 **Data:** The `bernd-1` dataset is Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
